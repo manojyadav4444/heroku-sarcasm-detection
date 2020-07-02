@@ -12,4 +12,4 @@ Keras == 2.3.1
 
 # C:\Users\rajar\Desktop\flask\sarcasm.py: 3,4
 # C:\Users\rajar\Desktop\flask\sarcasm2.py: 2,3
-nltk == 3.4
+nltk == 3.4.5
